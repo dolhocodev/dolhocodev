@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Привіт! Я dolhocodev
 
-<!--
-**dolhocodev/dolhocodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Я — веброзробник-початківець, який щодня росте у світі JavaScript, React та сучасного фронтенду.  
+🔧 Зараз активно вивчаю `React`, `Next.js`, `Express`, розвиваю власні проєкти і навички.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Зараз вчу:
+- ⚛️ React + Next.js
+- 🧠 Алгоритми та структури даних
+- 🎨 Tailwind CSS
+- ☁️ Деплой на Vercel / GitHub Pages
+- 🧩 Базовий бекенд на Express
+
+---
+
+###  Мета
+> "Крок за кроком — з нуля до повноцінного фулстека, який створює реальні продукти."  
+Тут буде моє портфоліо, навчальні проєкти та шлях розвитку 
+
+---
+
+### 📬 Як знайти мене:
+- GitHub: [dolhocodev](https://github.com/dolhocodev)
+- Поки що тут, але буде більше!
+
+---
